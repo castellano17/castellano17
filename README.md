@@ -7,7 +7,7 @@ FullStack Developer Web<br>Lic. Informática Administrativa<br><br>Amo viajar<br
 
 ## 🏅 Certificaciones
 
-![GitHub Foundations Badge](https://images.credly.com/size/340x340/images/97742fc6-f648-4174-9a55-a56c8e77fa03/github-foundations.png)  
+![GitHub Foundations Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)  
 **GitHub Foundations Certified** – [Ver credencial](https://www.credly.com/badges/97742fc6-f648-4174-9a55-a56c8e77fa03/public_url)
 
 # 💻 Tech Stack:
